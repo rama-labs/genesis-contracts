@@ -1,3 +1,0 @@
-[submodule "matic-contracts"]
-	path = matic-contracts
-	url = https://github.com/rama-labs/contracts.git
